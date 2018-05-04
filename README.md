@@ -1,2 +1,3 @@
 # hello-world
-Write a short description.
+
+This is the first check in.
